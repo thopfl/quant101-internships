@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:27+00:00",
+ "updated": "2026-11-25T14:21+00:00",
  "source": "SimplifyJobs/Summer2027-Internships",
  "offers": [
   {
@@ -2741,6 +2741,25 @@
    ],
    "url": "https://db.recsolu.com/external/requisitions/xWQKe37zpsstpmjqs1whHw",
    "posted": "2026-11-03",
+   "active": true
+  },
+  {
+   "id": "fe91cc53-5153-42e5-95af-0792a1afc894",
+   "company": "Davidson Kempner",
+   "title": "Quantitative Investment Research Intern",
+   "locations": [
+    "London, UK"
+   ],
+   "countries": [
+    "UK"
+   ],
+   "kind": "Research",
+   "term": "Off-cycle",
+   "terms": [
+    "Winter 2027"
+   ],
+   "url": "https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002",
+   "posted": "2026-11-05",
    "active": true
   },
   {
